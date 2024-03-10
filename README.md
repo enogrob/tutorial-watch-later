@@ -23,4 +23,6 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Advanced ChatGPT Guide for 2024 (Become a PRO!) 
 [x] Hacking a GPT is SHOCKINGLY easy – Learn how to reverse engineer GPTs through prompt injection
 [x] Leap AI: Easily Create AI Agents/Workflows with a Drag-and-Drop UI!
+[x] Books every software engineer should read in 2024.
+
 ```
