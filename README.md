@@ -24,5 +24,6 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Hacking a GPT is SHOCKINGLY easy – Learn how to reverse engineer GPTs through prompt injection
 [x] Leap AI: Easily Create AI Agents/Workflows with a Drag-and-Drop UI!
 [x] Books every software engineer should read in 2024.
-
+[x] How To M5 Nemo Cardputer Via M5Burner
+[x] LED RGB color changer M5 Stack Cardputer running MicroHydra firmware
 ```
