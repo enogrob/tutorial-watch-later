@@ -26,4 +26,6 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [x] Books every software engineer should read in 2024.
 [x] How To M5 Nemo Cardputer Via M5Burner
 [x] LED RGB color changer M5 Stack Cardputer running MicroHydra firmware
+[x] GitHub Copilot Best Practices within Visual Studio]
+[x] Before You Write: Frame Your Thoughts with Concept Modeling
 ```
